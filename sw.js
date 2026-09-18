@@ -4,7 +4,7 @@
    with one change: activate only deletes this app's OWN old builds, never the
    "ibex-trip-data" cache that holds the private trip file loaded from the phone. */
 "use strict";
-var CACHE = "ibex-loop-b1";
+var CACHE = "ibex-loop-b2";
 var ASSETS = [
   "./",
   "./index.html",
